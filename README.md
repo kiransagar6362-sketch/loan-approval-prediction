@@ -36,25 +36,23 @@ Gender and marital status are **intentionally excluded** from the model inputs (
 ## UI Screenshots
 
 ### Assess Applicant — Empty State
-![Assess applicant empty state](screenshots/01_assess_empty.png)
+<img width="2160" height="1466" alt="01_assess_empty" src="https://github.com/user-attachments/assets/a0839a66-2216-4f28-a832-8fefa8b69b5e" />
 
 ### Form Validation
-![Form validation message](screenshots/02_validation_message.png)
+<img width="2160" height="1466" alt="02_validation_message" src="https://github.com/user-attachments/assets/1161a1a9-2803-4793-9050-6f0e4d01f3cf" />
 
 ### Approved Result — Strong Applicant
-![Approved result](screenshots/03_approved_result.png)
+<img width="2160" height="1466" alt="03_approved_result" src="https://github.com/user-attachments/assets/cf844fd6-9a33-4acd-9435-6d39f1ee2515" />
 
 ### Declined Result — Risky Applicant
-![Declined result](screenshots/04_declined_result.png)
+<img width="2160" height="1599" alt="04_declined_result" src="https://github.com/user-attachments/assets/a73947f7-88ea-4e08-a990-d05f834a8ba6" />
 
 ### Model Performance Dashboard
-![Model performance dashboard](screenshots/05_model_performance.png)
+<img width="2160" height="2252" alt="05_model_performance" src="https://github.com/user-attachments/assets/aa168c26-657e-4409-8a6a-353a66edbb5d" />
 
 ### Data Insights Dashboard
-![Data insights dashboard](screenshots/06_data_insights.png)
+<img width="2160" height="2427" alt="06_data_insights" src="https://github.com/user-attachments/assets/ac2fc6d1-6e7b-42ed-a829-e01ec313a90b" />
 
-### Mobile View
-![Mobile view](screenshots/07_mobile_view.png)
 
 ---
 
